@@ -4,7 +4,7 @@ namespace Pbinfo
 {
     class Program
     {
-        static void Main()
+        static void Main()cdc
         {
            uint C = uint.Parse(Console.ReadLine());
 
